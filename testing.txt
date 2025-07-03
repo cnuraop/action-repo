@@ -1,0 +1,2 @@
+# action-repo
+This repository triggers GitHub Webhook events like push, pull request, and merge.
